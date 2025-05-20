@@ -1,2 +1,1 @@
-# andhika.github.io
-uji coba index.html
+index.html
